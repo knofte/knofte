@@ -4,7 +4,7 @@
 
 ## About Me
 - **Profession**: Entrepreneur | Former CTO | Expert in Finance, Marketing, IT, and Business Management.
-- **Leadership**: Founder & Managing Director of [Motuab](#), [Matensia](#), and [MT Proxy](#).
+- **Leadership**: Founder & Managing Director of [Motuab](https://motuab.com), [Matensia](https://matensia.com), and [MT Proxy](https://mtproxy.io).
 - **Publications**: Author of "Common Sense Leadership: (The Scandinavian Way)". [More about my books](https://www.thriftbooks.com/a/kent-riboe/4867805/).
 - **Online Presence**: Sharing insights on Personal Development and Finance on [Kent Percent - YouTube](https://www.youtube.com/@kentpercent).
 
