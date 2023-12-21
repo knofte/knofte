@@ -12,4 +12,3 @@
 - [LinkedIn](https://linkedin.com/in/kentriboe) 
 - [Twitter](https://twitter.com/riboe_kent)
 - [Personal Website](https://kentpercent.com/)
-- 
