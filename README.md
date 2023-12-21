@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**knofte/knofte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kent Riboe
 
-Here are some ideas to get you started:
+## About Me
+- **Profession**: Entrepreneur | Former CTO | Expert in Finance, Marketing, IT, and Business Management.
+- **Leadership**: Founder & Managing Director of [Motuab](#), [Matensia](#), and [MT Proxy](#).
+- **Publications**: Author of "Common Sense Leadership: (The Scandinavian Way)". [More about my books](https://www.thriftbooks.com/a/kent-riboe/4867805/).
+- **Online Presence**: Sharing insights on Personal Development and Finance on [Kent Percent - YouTube](https://www.youtube.com/@kentpercent).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- [LinkedIn](https://linkedin.com/in/kentriboe) 
+- [Twitter](https://twitter.com/riboe_kent)
+- [Personal Website](https://kentpercent.com/)
+- 
